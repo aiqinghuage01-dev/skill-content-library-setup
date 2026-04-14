@@ -1,0 +1,9 @@
+{
+  "name": "内容库搭建-学员版",
+  "version": "1.0.0",
+  "description": "一键桌面搭建本地内容库，所有内容skill产出自动归档",
+  "author": "aiqinghuage01-dev",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}
