@@ -1,0 +1,22 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 5,
+  "role": "图书管理员",
+  "avatar": {
+    "style": "notionists",
+    "seed": "librarian-archive"
+  },
+  "capabilities": [
+    "shell",
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "一键桌面搭建本地知识库"
+}
